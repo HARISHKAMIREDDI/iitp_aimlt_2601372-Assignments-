@@ -99,10 +99,3 @@ if Passed==True:
     print(f"Grade: {grade}")
 else:
     print(f"Status: FAIL")
-    
-
-
-
-
-
-
